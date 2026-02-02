@@ -5,7 +5,7 @@ This project demonstrates the design and implementation of a Zero Trust security
 
 The project follows real enterprise practices and is executed in six structured phases, combining GUI-based validation with automation-ready configurations.
 
-Architecture Summary
+🧱 Architecture Summary
 
 Identity as the control plane (Azure Entra ID)
 
@@ -19,7 +19,7 @@ Cost governance using budgets
 
 Incident response procedures documented and tested
 
-Project Phases
+📌 Project Phases
 Phase 1 – Identity & Access Management
 
 Configured Azure Entra ID users and roles
@@ -84,7 +84,7 @@ Documented remediation and reporting workflows
 
 Created an administrator operational checklist
 
- Tools & Technologies
+🛠️ Tools & Technologies
 
 Azure Portal (GUI)
 
@@ -100,7 +100,7 @@ PowerShell (Az & Microsoft Graph)
 
 JSON (Custom RBAC)
 
-Skills Demonstrated
+🎯 Skills Demonstrated
 
 Cloud security fundamentals
 
